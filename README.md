@@ -1,2 +1,3 @@
 # blogs
-personal blog, record my dribs and DRBS
+
+- 我的个人博客，记录我的点点滴滴
